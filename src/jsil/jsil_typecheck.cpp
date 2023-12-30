@@ -11,12 +11,11 @@ Author: Michael Tautschnig, tautschn@amazon.com
 
 #include "jsil_typecheck.h"
 
-#include <goto-programs/goto_instruction_code.h>
-
 #include <util/bitvector_types.h>
-#include <util/prefix.h>
 #include <util/std_code.h>
 #include <util/symbol_table.h>
+
+#include <goto-programs/goto_instruction_code.h>
 
 #include "expr2jsil.h"
 #include "jsil_types.h"
@@ -564,9 +563,7 @@ void jsil_typecheckt::typecheck_symbol_expr(symbol_exprt &symbol_expr)
   // symbol table and retrieve it's type
   // TODO: add a flag for not needing to prefix internal symbols
   // that do not start with hash
-  if(has_prefix(id2string(identifier), "#") ||
-     identifier=="eval" ||
-     identifier=="nan")
+  if(identifier.starts_with("#") || identifier == "eval" || identifier == "nan")
   {
     symbol_table_baset::symbolst::const_iterator s_it =
       symbol_table.symbols.find(identifier);
@@ -590,7 +587,7 @@ void jsil_typecheckt::typecheck_symbol_expr(symbol_exprt &symbol_expr)
     // if this is a variable, we need to check if we already
     // prefixed it and add to the symbol table if it is not there already
     irep_idt identifier_base = identifier;
-    if(!has_prefix(id2string(identifier), id2string(proc_name)))
+    if(!identifier.starts_with(id2string(proc_name)))
     {
       identifier = add_prefix(identifier);
       symbol_expr.set_identifier(identifier);
