@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/source_lines.cpp" name="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/source_lines.cpp">
-<area shape="rect" id="node1" title="Set of source code lines contributing to a basic block." alt="" coords="995,5,1188,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/source_lines.cpp" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/source_lines.cpp">
+<area shape="rect" id="node1" title="Set of source code lines contributing to a basic block." alt="" coords="970,5,1213,61"/>
 <area shape="rect" id="node2" href="$source__lines_8h.html" title="Set of source code lines contributing to a basic block." alt="" coords="628,109,742,136"/>
 <area shape="rect" id="node8" title=" " alt="" coords="1158,497,1233,524"/>
 <area shape="rect" id="node30" href="$format__number__range_8h.html" title="Format vector of numbers into a compressed range." alt="" coords="754,259,902,300"/>

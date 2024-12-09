@@ -1,6 +1,6 @@
-<map id="/home/runner/work/cbmc/cbmc/src/solvers/smt2_incremental/smt_solver_process.h" name="/home/runner/work/cbmc/cbmc/src/solvers/smt2_incremental/smt_solver_process.h">
-<area shape="rect" id="node1" title=" " alt="" coords="236,5,420,76"/>
-<area shape="rect" id="node2" href="$solver__factory_8cpp.html" title="Solver Factory." alt="" coords="5,131,189,187"/>
-<area shape="rect" id="node3" href="$smt2__incremental__decision__procedure_8cpp.html" title=" " alt="" coords="213,124,443,195"/>
-<area shape="rect" id="node4" href="$smt__solver__process_8cpp.html" title=" " alt="" coords="467,124,651,195"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/solvers/smt2_incremental/smt_solver_process.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/solvers/smt2_incremental/smt_solver_process.h">
+<area shape="rect" id="node1" title=" " alt="" coords="265,5,463,76"/>
+<area shape="rect" id="node2" href="$solver__factory_8cpp.html" title="Solver Factory." alt="" coords="5,139,237,195"/>
+<area shape="rect" id="node3" href="$smt2__incremental__decision__procedure_8cpp.html" title=" " alt="" coords="261,124,467,209"/>
+<area shape="rect" id="node4" href="$smt__solver__process_8cpp.html" title=" " alt="" coords="491,131,690,202"/>
 </map>

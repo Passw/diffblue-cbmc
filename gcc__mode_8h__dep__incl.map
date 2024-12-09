@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;cc/gcc_mode.h" name="/home/runner/work/cbmc/cbmc/src/goto&#45;cc/gcc_mode.h">
-<area shape="rect" id="node1" title="Base class for command line interpretation." alt="" coords="109,5,293,61"/>
-<area shape="rect" id="node2" href="$gcc__mode_8cpp.html" title="GCC Mode." alt="" coords="5,109,189,165"/>
-<area shape="rect" id="node3" href="$goto__cc__main_8cpp.html" title="GOTO&#45;CC Main Module." alt="" coords="213,109,397,165"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;cc/gcc_mode.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;cc/gcc_mode.h">
+<area shape="rect" id="node1" title="Base class for command line interpretation." alt="" coords="116,5,315,61"/>
+<area shape="rect" id="node2" href="$gcc__mode_8cpp.html" title="GCC Mode." alt="" coords="5,109,204,165"/>
+<area shape="rect" id="node3" href="$goto__cc__main_8cpp.html" title="GOTO&#45;CC Main Module." alt="" coords="228,109,427,165"/>
 </map>

@@ -1,8 +1,8 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/insert_final_assert_false.h" name="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/insert_final_assert_false.h">
-<area shape="rect" id="node1" title="Insert final assert false into a function." alt="" coords="279,5,475,61"/>
-<area shape="rect" id="node2" href="$goto__instrument__parse__options_8cpp.html" title="Main Module." alt="" coords="5,213,264,269"/>
-<area shape="rect" id="node3" href="$goto__instrument__parse__options_8h.html" title="Command Line Parsing." alt="" coords="256,109,499,165"/>
-<area shape="rect" id="node6" href="$insert__final__assert__false_8cpp.html" title="Insert final assert false into a function." alt="" coords="523,109,733,165"/>
-<area shape="rect" id="node4" href="$goto__instrument__languages_8cpp.html" title="Language Registration." alt="" coords="288,213,523,269"/>
-<area shape="rect" id="node5" href="$goto__instrument__main_8cpp.html" title="Main Module." alt="" coords="547,213,747,269"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/insert_final_assert_false.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/insert_final_assert_false.h">
+<area shape="rect" id="node1" title="Insert final assert false into a function." alt="" coords="262,5,469,76"/>
+<area shape="rect" id="node2" href="$goto__instrument__parse__options_8cpp.html" title="Main Module." alt="" coords="5,243,248,313"/>
+<area shape="rect" id="node3" href="$goto__instrument__parse__options_8h.html" title="Command Line Parsing." alt="" coords="244,124,487,195"/>
+<area shape="rect" id="node6" href="$insert__final__assert__false_8cpp.html" title="Insert final assert false into a function." alt="" coords="511,124,718,195"/>
+<area shape="rect" id="node4" href="$goto__instrument__languages_8cpp.html" title="Language Registration." alt="" coords="272,243,515,313"/>
+<area shape="rect" id="node5" href="$goto__instrument__main_8cpp.html" title="Main Module." alt="" coords="539,243,781,313"/>
 </map>

@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/analyses/local_may_alias.h" name="/home/runner/work/cbmc/cbmc/src/analyses/local_may_alias.h">
-<area shape="rect" id="node1" title="Field&#45;insensitive, location&#45;sensitive may&#45;alias analysis." alt="" coords="173,5,357,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/local_may_alias.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/local_may_alias.h">
+<area shape="rect" id="node1" title="Field&#45;insensitive, location&#45;sensitive may&#45;alias analysis." alt="" coords="163,5,368,61"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,109,83,136"/>
 <area shape="rect" id="node3" title=" " alt="" coords="107,109,165,136"/>
 <area shape="rect" id="node4" href="$union__find_8h.html" title=" " alt="" coords="63,1020,190,1047"/>

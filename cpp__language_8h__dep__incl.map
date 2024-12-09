@@ -1,10 +1,10 @@
-<map id="/home/runner/work/cbmc/cbmc/src/cpp/cpp_language.h" name="/home/runner/work/cbmc/cbmc/src/cpp/cpp_language.h">
-<area shape="rect" id="node1" title="C++ Language Module." alt="" coords="775,5,992,47"/>
-<area shape="rect" id="node2" href="$cbmc__languages_8cpp.html" title="Language Registration." alt="" coords="5,102,268,143"/>
-<area shape="rect" id="node3" href="$cpp__language_8cpp.html" title="C++ Language Module." alt="" coords="293,102,525,143"/>
-<area shape="rect" id="node4" href="$goto__analyzer__languages_8cpp.html" title="Language Registration." alt="" coords="549,95,767,151"/>
-<area shape="rect" id="node5" href="$goto__cc__languages_8cpp.html" title="Language Registration." alt="" coords="791,95,975,151"/>
-<area shape="rect" id="node6" href="$goto__diff__languages_8cpp.html" title="Language Registration." alt="" coords="999,95,1183,151"/>
-<area shape="rect" id="node7" href="$goto__instrument__languages_8cpp.html" title="Language Registration." alt="" coords="1207,95,1442,151"/>
-<area shape="rect" id="node8" href="$goto__synthesizer__languages_8cpp.html" title="Language Registration." alt="" coords="1467,95,1705,151"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/cpp/cpp_language.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/cpp/cpp_language.h">
+<area shape="rect" id="node1" title="C++ Language Module." alt="" coords="705,5,904,61"/>
+<area shape="rect" id="node2" href="$cbmc__languages_8cpp.html" title="Language Registration." alt="" coords="5,117,207,173"/>
+<area shape="rect" id="node3" href="$cpp__language_8cpp.html" title="C++ Language Module." alt="" coords="231,117,429,173"/>
+<area shape="rect" id="node4" href="$goto__analyzer__languages_8cpp.html" title="Language Registration." alt="" coords="453,109,665,180"/>
+<area shape="rect" id="node5" href="$goto__cc__languages_8cpp.html" title="Language Registration." alt="" coords="690,117,919,173"/>
+<area shape="rect" id="node6" href="$goto__diff__languages_8cpp.html" title="Language Registration." alt="" coords="943,117,1186,173"/>
+<area shape="rect" id="node7" href="$goto__instrument__languages_8cpp.html" title="Language Registration." alt="" coords="1210,109,1453,180"/>
+<area shape="rect" id="node8" href="$goto__synthesizer__languages_8cpp.html" title="Language Registration." alt="" coords="1477,109,1727,180"/>
 </map>

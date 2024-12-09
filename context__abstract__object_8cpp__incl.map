@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/context_abstract_object.cpp" name="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/context_abstract_object.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="71,5,279,76"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/context_abstract_object.cpp" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/context_abstract_object.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="67,5,282,76"/>
 <area shape="rect" id="node2" href="$context__abstract__object_8h.html" title="General implementation of a an abstract_objectt which can track side information in the form of a &#39;co..." alt="" coords="1126,124,1317,151"/>
 <area shape="rect" id="node19" title=" " alt="" coords="201,691,287,717"/>
 <area shape="rect" id="node47" href="$abstract__object__statistics_8h.html" title="Statistics gathering for the variable senstivity domain." alt="" coords="75,124,275,151"/>

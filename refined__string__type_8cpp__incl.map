@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/util/refined_string_type.cpp" name="/home/runner/work/cbmc/cbmc/src/util/refined_string_type.cpp">
-<area shape="rect" id="node1" title="Type for string expressions used by the string solver." alt="" coords="581,5,765,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/util/refined_string_type.cpp" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/util/refined_string_type.cpp">
+<area shape="rect" id="node1" title="Type for string expressions used by the string solver." alt="" coords="572,5,775,61"/>
 <area shape="rect" id="node2" href="$refined__string__type_8h.html" title="Type for string expressions used by the string solver." alt="" coords="514,109,673,136"/>
 <area shape="rect" id="node27" href="$pointer__expr_8h.html" title="API to expression classes for Pointers." alt="" coords="697,109,812,136"/>
 <area shape="rect" id="node3" href="$cprover__prefix_8h.html" title=" " alt="" coords="454,184,581,211"/>

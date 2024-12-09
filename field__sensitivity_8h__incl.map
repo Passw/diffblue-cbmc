@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;symex/field_sensitivity.h" name="/home/runner/work/cbmc/cbmc/src/goto&#45;symex/field_sensitivity.h">
-<area shape="rect" id="node1" title=" " alt="" coords="246,5,445,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;symex/field_sensitivity.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;symex/field_sensitivity.h">
+<area shape="rect" id="node1" title=" " alt="" coords="235,5,456,61"/>
 <area shape="rect" id="node2" href="$ssa__expr_8h.html" title=" " alt="" coords="287,109,403,136"/>
 <area shape="rect" id="node3" href="$std__expr_8h.html" title="API to expression classes." alt="" coords="301,184,390,211"/>
 <area shape="rect" id="node4" href="$expr__cast_8h.html" title="Templated functions to cast to specific exprt&#45;derived classes." alt="" coords="297,333,394,360"/>

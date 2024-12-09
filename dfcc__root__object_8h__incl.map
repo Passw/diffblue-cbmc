@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/contracts/dynamic&#45;frames/dfcc_root_object.h" name="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/contracts/dynamic&#45;frames/dfcc_root_object.h">
-<area shape="rect" id="node1" title="Utility functions that compute root object expressions for assigns clause targets and LHS expressions..." alt="" coords="345,5,543,76"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/contracts/dynamic&#45;frames/dfcc_root_object.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/contracts/dynamic&#45;frames/dfcc_root_object.h">
+<area shape="rect" id="node1" title="Utility functions that compute root object expressions for assigns clause targets and LHS expressions..." alt="" coords="316,5,572,76"/>
 <area shape="rect" id="node2" href="$irep_8h.html" title=" " alt="" coords="341,124,425,151"/>
 <area shape="rect" id="node25" title=" " alt="" coords="449,124,564,151"/>
 <area shape="rect" id="node3" title=" " alt="" coords="384,497,443,524"/>

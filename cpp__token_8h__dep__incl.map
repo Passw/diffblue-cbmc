@@ -1,9 +1,9 @@
-<map id="/home/runner/work/cbmc/cbmc/src/cpp/cpp_token.h" name="/home/runner/work/cbmc/cbmc/src/cpp/cpp_token.h">
-<area shape="rect" id="node1" title="C++ Parser: Token." alt="" coords="471,5,665,47"/>
-<area shape="rect" id="node2" href="$cpp__token__buffer_8h.html" title="C++ Parser: Token Buffer." alt="" coords="476,95,660,151"/>
-<area shape="rect" id="node3" href="$cpp__parser_8h.html" title="C++ Parser." alt="" coords="312,206,509,247"/>
-<area shape="rect" id="node6" href="$parse_8cpp.html" title="C++ Language Parsing." alt="" coords="499,303,683,344"/>
-<area shape="rect" id="node7" href="$cpp__token__buffer_8cpp.html" title="C++ Parser: Token Buffer." alt="" coords="605,199,789,255"/>
-<area shape="rect" id="node4" href="$cpp__language_8cpp.html" title="C++ Language Module." alt="" coords="5,303,237,344"/>
-<area shape="rect" id="node5" href="$cpp__parser_8cpp.html" title="C++ Parser." alt="" coords="262,303,474,344"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/cpp/cpp_token.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/cpp/cpp_token.h">
+<area shape="rect" id="node1" title="C++ Parser: Token." alt="" coords="428,5,627,61"/>
+<area shape="rect" id="node2" href="$cpp__token__buffer_8h.html" title="C++ Parser: Token Buffer." alt="" coords="428,109,627,165"/>
+<area shape="rect" id="node3" href="$cpp__parser_8h.html" title="C++ Parser." alt="" coords="271,213,469,269"/>
+<area shape="rect" id="node6" href="$parse_8cpp.html" title="C++ Language Parsing." alt="" coords="451,317,649,373"/>
+<area shape="rect" id="node7" href="$cpp__token__buffer_8cpp.html" title="C++ Parser: Token Buffer." alt="" coords="564,213,763,269"/>
+<area shape="rect" id="node4" href="$cpp__language_8cpp.html" title="C++ Language Module." alt="" coords="5,317,204,373"/>
+<area shape="rect" id="node5" href="$cpp__parser_8cpp.html" title="C++ Parser." alt="" coords="228,317,427,373"/>
 </map>

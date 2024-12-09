@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/wmm/data_dp.h" name="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/wmm/data_dp.h">
-<area shape="rect" id="node1" title="data dependencies" alt="" coords="103,5,297,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/wmm/data_dp.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/wmm/data_dp.h">
+<area shape="rect" id="node1" title="data dependencies" alt="" coords="80,5,320,61"/>
 <area shape="rect" id="node2" title=" " alt="" coords="116,109,159,136"/>
 <area shape="rect" id="node3" href="$source__location_8h.html" title=" " alt="" coords="183,109,345,136"/>
 <area shape="rect" id="node4" href="$deprecate_8h.html" title=" " alt="" coords="5,184,104,211"/>

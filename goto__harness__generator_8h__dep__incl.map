@@ -1,11 +1,11 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;harness/goto_harness_generator.h" name="/home/runner/work/cbmc/cbmc/src/goto&#45;harness/goto_harness_generator.h">
-<area shape="rect" id="node1" title=" " alt="" coords="443,5,637,61"/>
-<area shape="rect" id="node2" href="$function__call__harness__generator_8h.html" title=" " alt="" coords="5,109,189,180"/>
-<area shape="rect" id="node5" href="$goto__harness__generator_8cpp.html" title=" " alt="" coords="214,117,423,173"/>
-<area shape="rect" id="node6" href="$goto__harness__generator__factory_8cpp.html" title=" " alt="" coords="448,109,632,180"/>
-<area shape="rect" id="node7" href="$memory__snapshot__harness__generator_8h.html" title=" " alt="" coords="656,109,861,180"/>
-<area shape="rect" id="node9" href="$recursive__initialization_8cpp.html" title=" " alt="" coords="886,117,1087,173"/>
-<area shape="rect" id="node3" href="$function__call__harness__generator_8cpp.html" title=" " alt="" coords="5,228,189,299"/>
-<area shape="rect" id="node4" href="$goto__harness__parse__options_8cpp.html" title=" " alt="" coords="303,235,542,291"/>
-<area shape="rect" id="node8" href="$memory__snapshot__harness__generator_8cpp.html" title=" " alt="" coords="656,228,861,299"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;harness/goto_harness_generator.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;harness/goto_harness_generator.h">
+<area shape="rect" id="node1" title=" " alt="" coords="455,5,658,76"/>
+<area shape="rect" id="node2" href="$function__call__harness__generator_8h.html" title=" " alt="" coords="5,124,204,195"/>
+<area shape="rect" id="node5" href="$goto__harness__generator_8cpp.html" title=" " alt="" coords="229,124,431,195"/>
+<area shape="rect" id="node6" href="$goto__harness__generator__factory_8cpp.html" title=" " alt="" coords="455,124,658,195"/>
+<area shape="rect" id="node7" href="$memory__snapshot__harness__generator_8h.html" title=" " alt="" coords="683,124,919,195"/>
+<area shape="rect" id="node9" href="$recursive__initialization_8cpp.html" title=" " alt="" coords="943,131,1234,187"/>
+<area shape="rect" id="node3" href="$function__call__harness__generator_8cpp.html" title=" " alt="" coords="5,243,204,313"/>
+<area shape="rect" id="node4" href="$goto__harness__parse__options_8cpp.html" title=" " alt="" coords="342,243,545,313"/>
+<area shape="rect" id="node8" href="$memory__snapshot__harness__generator_8cpp.html" title=" " alt="" coords="683,243,919,313"/>
 </map>

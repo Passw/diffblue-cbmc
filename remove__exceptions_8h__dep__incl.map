@@ -1,9 +1,9 @@
-<map id="/home/runner/work/cbmc/cbmc/jbmc/src/java_bytecode/remove_exceptions.h" name="/home/runner/work/cbmc/cbmc/jbmc/src/java_bytecode/remove_exceptions.h">
-<area shape="rect" id="node1" title="Remove function exceptional returns." alt="" coords="644,5,863,61"/>
-<area shape="rect" id="node2" href="$janalyzer__parse__options_8cpp.html" title="JANALYZER Command Line Option Processing." alt="" coords="5,109,216,165"/>
-<area shape="rect" id="node3" href="$ci__lazy__methods_8cpp.html" title=" " alt="" coords="240,109,459,165"/>
-<area shape="rect" id="node4" href="$java__bytecode__internal__additions_8cpp.html" title=" " alt="" coords="483,109,755,165"/>
-<area shape="rect" id="node5" href="$remove__exceptions_8cpp.html" title="Remove exception handling." alt="" coords="779,109,997,165"/>
-<area shape="rect" id="node6" href="$jbmc__parse__options_8cpp.html" title="JBMC Command Line Option Processing." alt="" coords="1021,109,1213,165"/>
-<area shape="rect" id="node7" href="$jdiff__parse__options_8cpp.html" title="JDIFF Command Line Option Processing." alt="" coords="1237,109,1421,165"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/jbmc/src/java_bytecode/remove_exceptions.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/jbmc/src/java_bytecode/remove_exceptions.h">
+<area shape="rect" id="node1" title="Remove function exceptional returns." alt="" coords="596,5,795,76"/>
+<area shape="rect" id="node2" href="$janalyzer__parse__options_8cpp.html" title="JANALYZER Command Line Option Processing." alt="" coords="5,124,204,195"/>
+<area shape="rect" id="node3" href="$ci__lazy__methods_8cpp.html" title=" " alt="" coords="228,124,427,195"/>
+<area shape="rect" id="node4" href="$java__bytecode__internal__additions_8cpp.html" title=" " alt="" coords="451,124,694,195"/>
+<area shape="rect" id="node5" href="$remove__exceptions_8cpp.html" title="Remove exception handling." alt="" coords="719,124,917,195"/>
+<area shape="rect" id="node6" href="$jbmc__parse__options_8cpp.html" title="JBMC Command Line Option Processing." alt="" coords="942,131,1185,187"/>
+<area shape="rect" id="node7" href="$jdiff__parse__options_8cpp.html" title="JDIFF Command Line Option Processing." alt="" coords="1209,131,1437,187"/>
 </map>

@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/constant_pointer_abstract_object.h" name="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/constant_pointer_abstract_object.h">
-<area shape="rect" id="node1" title="An abstraction of a pointer that tracks a single pointer." alt="" coords="184,5,392,76"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/constant_pointer_abstract_object.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/constant_pointer_abstract_object.h">
+<area shape="rect" id="node1" title="An abstraction of a pointer that tracks a single pointer." alt="" coords="161,5,415,76"/>
 <area shape="rect" id="node2" title=" " alt="" coords="496,720,560,747"/>
 <area shape="rect" id="node3" href="$abstract__pointer__object_8h.html" title="The base of all pointer abstractions." alt="" coords="788,124,999,165"/>
 <area shape="rect" id="node46" href="$write__stack_8h.html" title="Represents a stack of write operations to an addressable memory location." alt="" coords="183,541,393,583"/>

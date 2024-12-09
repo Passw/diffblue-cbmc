@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/analyses/ai_domain.cpp" name="/home/runner/work/cbmc/cbmc/src/analyses/ai_domain.cpp">
-<area shape="rect" id="node1" title="Abstract Interpretation Domain." alt="" coords="1831,5,2015,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/ai_domain.cpp" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/ai_domain.cpp">
+<area shape="rect" id="node1" title="Abstract Interpretation Domain." alt="" coords="1823,5,2022,61"/>
 <area shape="rect" id="node2" href="$ai__domain_8h.html" title="Abstract Interpretation Domain." alt="" coords="713,109,815,136"/>
 <area shape="rect" id="node41" href="$pointer__expr_8h.html" title="API to expression classes for Pointers." alt="" coords="1694,348,1834,375"/>
 <area shape="rect" id="node43" href="$simplify__expr_8h.html" title=" " alt="" coords="1960,109,2107,136"/>

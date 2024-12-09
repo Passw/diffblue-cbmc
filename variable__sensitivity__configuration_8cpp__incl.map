@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/variable_sensitivity_configuration.cpp" name="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/variable_sensitivity_configuration.cpp">
-<area shape="rect" id="node1" title="Captures the user&#45;supplied configuration for VSD, determining which domain abstractions are used,..." alt="" coords="154,5,381,76"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/variable_sensitivity_configuration.cpp" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/variable_sensitivity_configuration.cpp">
+<area shape="rect" id="node1" title="Captures the user&#45;supplied configuration for VSD, determining which domain abstractions are used,..." alt="" coords="131,5,404,76"/>
 <area shape="rect" id="node2" href="$variable__sensitivity__configuration_8h.html" title="Captures the user&#45;supplied configuration for VSD, determining which domain abstractions are used,..." alt="" coords="5,497,156,539"/>
 <area shape="rect" id="node5" href="$exception__utils_8h.html" title=" " alt="" coords="287,124,445,151"/>
 <area shape="rect" id="node27" href="$options_8h.html" title="Options." alt="" coords="181,505,287,531"/>

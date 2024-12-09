@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/unit/testing&#45;utils/expr_query.h" name="/home/runner/work/cbmc/cbmc/unit/testing&#45;utils/expr_query.h">
-<area shape="rect" id="node1" title="Helper class for querying expressions Throw CATCH exceptions when the query fails." alt="" coords="423,5,607,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/unit/testing&#45;utils/expr_query.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/unit/testing&#45;utils/expr_query.h">
+<area shape="rect" id="node1" title="Helper class for querying expressions Throw CATCH exceptions when the query fails." alt="" coords="416,5,615,61"/>
 <area shape="rect" id="node2" href="$use__catch_8h.html" title=" " alt="" coords="158,109,339,136"/>
 <area shape="rect" id="node7" href="$expr__cast_8h.html" title="Templated functions to cast to specific exprt&#45;derived classes." alt="" coords="794,109,917,136"/>
 <area shape="rect" id="node3" title=" " alt="" coords="5,191,129,218"/>

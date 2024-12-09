@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/statement&#45;list/converters/convert_string_value.h" name="/home/runner/work/cbmc/cbmc/src/statement&#45;list/converters/convert_string_value.h">
-<area shape="rect" id="node1" title="Statement List Language Conversion." alt="" coords="249,5,441,76"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/statement&#45;list/converters/convert_string_value.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/statement&#45;list/converters/convert_string_value.h">
+<area shape="rect" id="node1" title="Statement List Language Conversion." alt="" coords="246,5,445,76"/>
 <area shape="rect" id="node2" href="$string__constant_8h.html" title=" " alt="" coords="266,124,425,151"/>
 <area shape="rect" id="node3" href="$std__expr_8h.html" title="API to expression classes." alt="" coords="301,199,390,225"/>
 <area shape="rect" id="node4" href="$expr__cast_8h.html" title="Templated functions to cast to specific exprt&#45;derived classes." alt="" coords="297,348,394,375"/>

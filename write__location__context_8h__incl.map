@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/write_location_context.h" name="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/write_location_context.h">
-<area shape="rect" id="node1" title="Maintain a context in the variable sensitvity domain that records write locations for a given abstrac..." alt="" coords="2457,5,2660,76"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/write_location_context.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/write_location_context.h">
+<area shape="rect" id="node1" title="Maintain a context in the variable sensitvity domain that records write locations for a given abstrac..." alt="" coords="2451,5,2666,76"/>
 <area shape="rect" id="node2" href="$context__abstract__object_8h.html" title="General implementation of a an abstract_objectt which can track side information in the form of a &#39;co..." alt="" coords="2311,124,2521,165"/>
 <area shape="rect" id="node6" title=" " alt="" coords="2463,541,2521,568"/>
 <area shape="rect" id="node46" title=" " alt="" coords="2596,131,2676,158"/>

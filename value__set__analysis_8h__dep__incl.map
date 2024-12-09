@@ -1,7 +1,7 @@
-<map id="/home/runner/work/cbmc/cbmc/src/pointer&#45;analysis/value_set_analysis.h" name="/home/runner/work/cbmc/cbmc/src/pointer&#45;analysis/value_set_analysis.h">
-<area shape="rect" id="node1" title="Value Set Propagation." alt="" coords="230,5,423,61"/>
-<area shape="rect" id="node2" href="$goto__instrument__parse__options_8cpp.html" title="Main Module." alt="" coords="5,213,264,269"/>
-<area shape="rect" id="node3" href="$show__value__sets_8cpp.html" title="Show Value Sets." alt="" coords="293,213,486,269"/>
-<area shape="rect" id="node4" href="$show__value__sets_8h.html" title="Show Value Sets." alt="" coords="163,109,357,165"/>
-<area shape="rect" id="node5" href="$value__set__analysis_8cpp.html" title="Value Set Propagation." alt="" coords="433,109,626,165"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/pointer&#45;analysis/value_set_analysis.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/pointer&#45;analysis/value_set_analysis.h">
+<area shape="rect" id="node1" title="Value Set Propagation." alt="" coords="237,5,435,76"/>
+<area shape="rect" id="node2" href="$goto__instrument__parse__options_8cpp.html" title="Main Module." alt="" coords="5,243,248,313"/>
+<area shape="rect" id="node3" href="$show__value__sets_8cpp.html" title="Show Value Sets." alt="" coords="293,243,505,313"/>
+<area shape="rect" id="node4" href="$show__value__sets_8h.html" title="Show Value Sets." alt="" coords="124,131,383,187"/>
+<area shape="rect" id="node5" href="$value__set__analysis_8cpp.html" title="Value Set Propagation." alt="" coords="457,124,655,195"/>
 </map>

@@ -1,62 +1,62 @@
-<map id="/home/runner/work/cbmc/cbmc/src/solvers/stack_decision_procedure.h" name="/home/runner/work/cbmc/cbmc/src/solvers/stack_decision_procedure.h">
-<area shape="rect" id="node1" title="Decision procedure with incremental solving with contexts and assumptions." alt="" coords="1185,5,1369,61"/>
-<area shape="rect" id="node2" href="$goto__symex__fault__localizer_8cpp.html" title="Fault Localization for Goto Symex." alt="" coords="449,117,680,173"/>
-<area shape="rect" id="node3" href="$solver__factory_8cpp.html" title="Solver Factory." alt="" coords="1642,451,1826,507"/>
-<area shape="rect" id="node4" href="$prop__conv_8h.html" title=" " alt="" coords="1873,117,2057,173"/>
-<area shape="rect" id="node38" href="$smt2__conv_8h.html" title=" " alt="" coords="1185,117,1369,173"/>
-<area shape="rect" id="node59" href="$smt2__incremental__decision__procedure_8h.html" title="Decision procedure with incremental SMT2 solving." alt="" coords="2134,109,2363,180"/>
-<area shape="rect" id="node5" href="$prop__conv_8cpp.html" title=" " alt="" coords="1819,235,2003,291"/>
-<area shape="rect" id="node6" href="$prop__conv__solver_8h.html" title=" " alt="" coords="2286,235,2470,291"/>
-<area shape="rect" id="node37" href="$prop__minimize_8cpp.html" title="Minimize some target function incrementally." alt="" coords="2027,235,2211,291"/>
-<area shape="rect" id="node7" href="$solver__hardness_8h.html" title=" " alt="" coords="2383,347,2594,403"/>
-<area shape="rect" id="node12" href="$equality_8h.html" title=" " alt="" coords="3859,347,4060,403"/>
-<area shape="rect" id="node36" href="$prop__conv__solver_8cpp.html" title=" " alt="" coords="2175,347,2359,403"/>
-<area shape="rect" id="node8" href="$goto__symex__property__decider_8cpp.html" title="Property Decider for Goto&#45;Symex." alt="" coords="2093,562,2343,618"/>
-<area shape="rect" id="node9" href="$multi__path__symex__checker_8cpp.html" title="Goto Checker using Bounded Model Checking." alt="" coords="1688,673,1919,729"/>
-<area shape="rect" id="node10" href="$solver__hardness_8cpp.html" title=" " alt="" coords="1975,451,2186,507"/>
-<area shape="rect" id="node11" href="$symex__target__equation_8cpp.html" title="Symbolic Execution Implementation of functions to build SSA equation." alt="" coords="2211,451,2425,507"/>
-<area shape="rect" id="node13" href="$arrays_8h.html" title="Theory of Arrays with Extensionality." alt="" coords="3859,451,4060,507"/>
-<area shape="rect" id="node35" href="$equality_8cpp.html" title=" " alt="" coords="4084,451,4285,507"/>
-<area shape="rect" id="node14" href="$arrays_8cpp.html" title=" " alt="" coords="4084,562,4285,618"/>
-<area shape="rect" id="node15" href="$boolbv_8h.html" title=" " alt="" coords="3859,562,4060,618"/>
-<area shape="rect" id="node16" href="$bv__pointers__wide_8h.html" title=" " alt="" coords="6044,673,6261,729"/>
-<area shape="rect" id="node17" href="$boolbv_8cpp.html" title=" " alt="" coords="1943,673,2144,729"/>
-<area shape="rect" id="node18" href="$boolbv__abs_8cpp.html" title=" " alt="" coords="2168,673,2369,729"/>
-<area shape="rect" id="node19" href="$boolbv__add__sub_8cpp.html" title=" " alt="" coords="2393,673,2595,729"/>
-<area shape="rect" id="node20" href="$boolbv__array_8cpp.html" title=" " alt="" coords="2619,673,2820,729"/>
-<area shape="rect" id="node21" href="$boolbv__array__of_8cpp.html" title=" " alt="" coords="2844,673,3045,729"/>
-<area shape="rect" id="node22" href="$boolbv__bitreverse_8cpp.html" title=" " alt="" coords="3069,673,3271,729"/>
-<area shape="rect" id="node23" href="$boolbv__bitwise_8cpp.html" title=" " alt="" coords="3295,673,3496,729"/>
-<area shape="rect" id="node24" href="$boolbv__bswap_8cpp.html" title=" " alt="" coords="3520,673,3721,729"/>
-<area shape="rect" id="node25" href="$boolbv__bv__rel_8cpp.html" title=" " alt="" coords="3745,673,3947,729"/>
-<area shape="rect" id="node26" href="$boolbv__byte__extract_8cpp.html" title=" " alt="" coords="3971,673,4172,729"/>
-<area shape="rect" id="node27" href="$boolbv__byte__update_8cpp.html" title=" " alt="" coords="4196,673,4397,729"/>
-<area shape="rect" id="node28" href="$boolbv__case_8cpp.html" title=" " alt="" coords="4421,673,4623,729"/>
-<area shape="rect" id="node29" href="$boolbv__complex_8cpp.html" title=" " alt="" coords="4647,673,4848,729"/>
-<area shape="rect" id="node30" href="$boolbv__concatenation_8cpp.html" title=" " alt="" coords="4872,673,5073,729"/>
-<area shape="rect" id="node31" href="$boolbv__cond_8cpp.html" title=" " alt="" coords="5097,673,5299,729"/>
-<area shape="rect" id="node32" href="$boolbv__constant_8cpp.html" title=" " alt="" coords="5323,673,5524,729"/>
-<area shape="rect" id="node33" href="$boolbv__constraint__select__one_8cpp.html" title=" " alt="" coords="5548,673,5795,729"/>
-<area shape="rect" id="node34" href="$boolbv__div_8cpp.html" title=" " alt="" coords="5819,673,6020,729"/>
-<area shape="rect" id="node39" href="$state__encoding__targets_8h.html" title=" " alt="" coords="1185,235,1369,291"/>
-<area shape="rect" id="node42" href="$horn__encoding_8cpp.html" title="Horn&#45;clause Encoding." alt="" coords="1393,235,1587,291"/>
-<area shape="rect" id="node43" href="$smt2__conv_8cpp.html" title="SMT Backend." alt="" coords="1611,235,1795,291"/>
-<area shape="rect" id="node44" href="$smt2__dec_8h.html" title=" " alt="" coords="977,235,1161,291"/>
-<area shape="rect" id="node58" href="$smt__to__smt2__string_8cpp.html" title=" " alt="" coords="756,228,952,299"/>
-<area shape="rect" id="node40" href="$state__encoding_8cpp.html" title=" " alt="" coords="1206,347,1390,403"/>
-<area shape="rect" id="node41" href="$state__encoding__targets_8cpp.html" title=" " alt="" coords="1414,347,1598,403"/>
-<area shape="rect" id="node45" href="$solver__factory_8h.html" title="Solver Factory." alt="" coords="497,347,681,403"/>
-<area shape="rect" id="node56" href="$scratch__program_8h.html" title="Loop Acceleration." alt="" coords="755,347,974,403"/>
-<area shape="rect" id="node57" href="$smt2__dec_8cpp.html" title=" " alt="" coords="998,347,1182,403"/>
-<area shape="rect" id="node46" href="$goto__symex__property__decider_8h.html" title="Property Decider for Goto&#45;Symex." alt="" coords="1254,451,1489,507"/>
-<area shape="rect" id="node51" href="$goto__synthesizer__parse__options_8h.html" title="Command Line Parsing." alt="" coords="288,451,535,507"/>
-<area shape="rect" id="node55" href="$api__options_8cpp.html" title=" " alt="" coords="559,451,743,507"/>
-<area shape="rect" id="node47" href="$bmc__util_8cpp.html" title="Bounded Model Checking Utilities." alt="" coords="1487,562,1671,618"/>
-<area shape="rect" id="node48" href="$multi__path__symex__checker_8h.html" title="Goto Checker using Multi&#45;Path Symbolic Execution." alt="" coords="1696,562,1911,618"/>
-<area shape="rect" id="node49" href="$single__loop__incremental__symex__checker_8h.html" title="Goto Checker using multi&#45;path symbolic execution with incremental unwinding of a specified loop." alt="" coords="1033,555,1219,625"/>
-<area shape="rect" id="node50" href="$single__path__symex__checker_8h.html" title="Goto Checker using Single Path Symbolic Execution." alt="" coords="1243,562,1463,618"/>
-<area shape="rect" id="node52" href="$goto__synthesizer__languages_8cpp.html" title="Language Registration." alt="" coords="292,562,531,618"/>
-<area shape="rect" id="node53" href="$goto__synthesizer__main_8cpp.html" title="Main Module." alt="" coords="555,562,759,618"/>
-<area shape="rect" id="node54" href="$goto__synthesizer__parse__options_8cpp.html" title="Main Module." alt="" coords="5,562,268,618"/>
-<area shape="rect" id="node60" href="$smt2__incremental__decision__procedure_8cpp.html" title=" " alt="" coords="2494,228,2723,299"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/solvers/stack_decision_procedure.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/solvers/stack_decision_procedure.h">
+<area shape="rect" id="node1" title="Decision procedure with incremental solving with contexts and assumptions." alt="" coords="6245,5,6503,61"/>
+<area shape="rect" id="node2" href="$goto__symex__fault__localizer_8cpp.html" title="Fault Localization for Goto Symex." alt="" coords="5792,117,5991,187"/>
+<area shape="rect" id="node3" href="$prop__conv_8h.html" title=" " alt="" coords="6015,124,6213,180"/>
+<area shape="rect" id="node49" href="$smt2__conv_8h.html" title=" " alt="" coords="6665,124,6864,180"/>
+<area shape="rect" id="node59" href="$smt2__incremental__decision__procedure_8h.html" title="Decision procedure with incremental SMT2 solving." alt="" coords="7387,109,7593,195"/>
+<area shape="rect" id="node4" href="$prop__conv_8cpp.html" title=" " alt="" coords="6013,257,6215,313"/>
+<area shape="rect" id="node5" href="$prop__conv__solver_8h.html" title=" " alt="" coords="3827,257,4062,313"/>
+<area shape="rect" id="node48" href="$prop__minimize_8cpp.html" title="Minimize some target function incrementally." alt="" coords="5754,257,5989,313"/>
+<area shape="rect" id="node6" href="$solver__hardness_8h.html" title=" " alt="" coords="505,383,731,439"/>
+<area shape="rect" id="node12" href="$equality_8h.html" title=" " alt="" coords="3715,383,3921,439"/>
+<area shape="rect" id="node47" href="$prop__conv__solver_8cpp.html" title=" " alt="" coords="3946,383,4197,439"/>
+<area shape="rect" id="node7" href="$goto__symex__property__decider_8cpp.html" title="Property Decider for Goto&#45;Symex." alt="" coords="228,495,427,565"/>
+<area shape="rect" id="node8" href="$multi__path__symex__checker_8cpp.html" title="Goto Checker using Bounded Model Checking." alt="" coords="451,495,649,565"/>
+<area shape="rect" id="node9" href="$solver__factory_8cpp.html" title="Solver Factory." alt="" coords="7227,836,7459,892"/>
+<area shape="rect" id="node10" href="$solver__hardness_8cpp.html" title=" " alt="" coords="724,502,965,558"/>
+<area shape="rect" id="node11" href="$symex__target__equation_8cpp.html" title="Symbolic Execution Implementation of functions to build SSA equation." alt="" coords="5,495,204,565"/>
+<area shape="rect" id="node13" href="$arrays_8h.html" title="Theory of Arrays with Extensionality." alt="" coords="3836,502,4035,558"/>
+<area shape="rect" id="node46" href="$equality_8cpp.html" title=" " alt="" coords="3590,502,3811,558"/>
+<area shape="rect" id="node14" href="$arrays_8cpp.html" title=" " alt="" coords="3717,613,3927,669"/>
+<area shape="rect" id="node15" href="$boolbv_8h.html" title=" " alt="" coords="3951,613,4149,669"/>
+<area shape="rect" id="node16" href="$bv__pointers__wide_8h.html" title=" " alt="" coords="6767,725,6973,781"/>
+<area shape="rect" id="node17" href="$solver__factory_8h.html" title="Solver Factory." alt="" coords="7235,725,7452,781"/>
+<area shape="rect" id="node18" href="$boolbv_8cpp.html" title=" " alt="" coords="6997,725,7210,781"/>
+<area shape="rect" id="node19" href="$boolbv__abs_8cpp.html" title=" " alt="" coords="723,717,921,788"/>
+<area shape="rect" id="node20" href="$boolbv__add__sub_8cpp.html" title=" " alt="" coords="945,717,1144,788"/>
+<area shape="rect" id="node21" href="$boolbv__array_8cpp.html" title=" " alt="" coords="1168,717,1367,788"/>
+<area shape="rect" id="node22" href="$boolbv__array__of_8cpp.html" title=" " alt="" coords="1391,717,1589,788"/>
+<area shape="rect" id="node23" href="$boolbv__bitreverse_8cpp.html" title=" " alt="" coords="1613,717,1812,788"/>
+<area shape="rect" id="node24" href="$boolbv__bitwise_8cpp.html" title=" " alt="" coords="1836,717,2035,788"/>
+<area shape="rect" id="node25" href="$boolbv__bswap_8cpp.html" title=" " alt="" coords="2059,717,2257,788"/>
+<area shape="rect" id="node26" href="$boolbv__bv__rel_8cpp.html" title=" " alt="" coords="2281,717,2480,788"/>
+<area shape="rect" id="node27" href="$boolbv__byte__extract_8cpp.html" title=" " alt="" coords="2504,717,2703,788"/>
+<area shape="rect" id="node28" href="$boolbv__byte__update_8cpp.html" title=" " alt="" coords="2727,717,2925,788"/>
+<area shape="rect" id="node29" href="$boolbv__case_8cpp.html" title=" " alt="" coords="2949,717,3148,788"/>
+<area shape="rect" id="node30" href="$boolbv__complex_8cpp.html" title=" " alt="" coords="3172,717,3371,788"/>
+<area shape="rect" id="node31" href="$boolbv__concatenation_8cpp.html" title=" " alt="" coords="3395,717,3593,788"/>
+<area shape="rect" id="node32" href="$boolbv__cond_8cpp.html" title=" " alt="" coords="3617,717,3816,788"/>
+<area shape="rect" id="node33" href="$boolbv__constant_8cpp.html" title=" " alt="" coords="3840,717,4039,788"/>
+<area shape="rect" id="node34" href="$boolbv__constraint__select__one_8cpp.html" title=" " alt="" coords="4063,717,4261,788"/>
+<area shape="rect" id="node35" href="$boolbv__div_8cpp.html" title=" " alt="" coords="4285,717,4484,788"/>
+<area shape="rect" id="node36" href="$boolbv__equality_8cpp.html" title=" " alt="" coords="4508,717,4707,788"/>
+<area shape="rect" id="node37" href="$boolbv__extractbit_8cpp.html" title=" " alt="" coords="4731,717,4929,788"/>
+<area shape="rect" id="node38" href="$boolbv__extractbits_8cpp.html" title=" " alt="" coords="4953,717,5152,788"/>
+<area shape="rect" id="node39" href="$boolbv__floatbv__mod__rem_8cpp.html" title=" " alt="" coords="5176,717,5375,788"/>
+<area shape="rect" id="node40" href="$boolbv__floatbv__op_8cpp.html" title=" " alt="" coords="5399,717,5597,788"/>
+<area shape="rect" id="node41" href="$boolbv__get_8cpp.html" title=" " alt="" coords="5621,717,5820,788"/>
+<area shape="rect" id="node42" href="$boolbv__ieee__float__rel_8cpp.html" title=" " alt="" coords="5844,717,6043,788"/>
+<area shape="rect" id="node43" href="$boolbv__if_8cpp.html" title=" " alt="" coords="6067,725,6297,781"/>
+<area shape="rect" id="node44" href="$boolbv__index_8cpp.html" title=" " alt="" coords="6321,717,6520,788"/>
+<area shape="rect" id="node45" href="$boolbv__let_8cpp.html" title=" " alt="" coords="6544,717,6743,788"/>
+<area shape="rect" id="node50" href="$state__encoding__targets_8h.html" title=" " alt="" coords="6239,257,6482,313"/>
+<area shape="rect" id="node53" href="$horn__encoding_8cpp.html" title="Horn&#45;clause Encoding." alt="" coords="6507,257,6764,313"/>
+<area shape="rect" id="node54" href="$smt2__conv_8cpp.html" title="SMT Backend." alt="" coords="6789,257,6999,313"/>
+<area shape="rect" id="node55" href="$smt2__dec_8h.html" title=" " alt="" coords="7023,257,7221,313"/>
+<area shape="rect" id="node58" href="$smt__to__smt2__string_8cpp.html" title=" " alt="" coords="7245,250,7444,321"/>
+<area shape="rect" id="node51" href="$state__encoding_8cpp.html" title=" " alt="" coords="6386,383,6591,439"/>
+<area shape="rect" id="node52" href="$state__encoding__targets_8cpp.html" title=" " alt="" coords="6103,383,6362,439"/>
+<area shape="rect" id="node56" href="$scratch__program_8h.html" title="Loop Acceleration." alt="" coords="7021,376,7223,447"/>
+<area shape="rect" id="node57" href="$smt2__dec_8cpp.html" title=" " alt="" coords="7248,383,7452,439"/>
+<area shape="rect" id="node60" href="$smt2__incremental__decision__procedure_8cpp.html" title=" " alt="" coords="7527,243,7733,328"/>
 </map>

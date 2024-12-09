@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/util/pointer_offset_sum.cpp" name="/home/runner/work/cbmc/cbmc/src/util/pointer_offset_sum.cpp">
-<area shape="rect" id="node1" title="Pointer Analysis." alt="" coords="389,5,573,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/util/pointer_offset_sum.cpp" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/util/pointer_offset_sum.cpp">
+<area shape="rect" id="node1" title="Pointer Analysis." alt="" coords="380,5,583,61"/>
 <area shape="rect" id="node2" href="$pointer__offset__sum_8h.html" title="Pointer Dereferencing." alt="" coords="291,184,450,211"/>
 <area shape="rect" id="node22" href="$std__expr_8h.html" title="API to expression classes." alt="" coords="495,109,585,136"/>
 <area shape="rect" id="node3" href="$expr_8h.html" title=" " alt="" coords="329,333,391,360"/>

@@ -1,8 +1,8 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/contracts/contracts_wrangler.h" name="/home/runner/work/cbmc/cbmc/src/goto&#45;instrument/contracts/contracts_wrangler.h">
-<area shape="rect" id="node1" title="Parse and annotate contracts." alt="" coords="145,5,370,61"/>
-<area shape="rect" id="node2" href="$contracts__wrangler_8cpp.html" title="Parse and annotate contracts." alt="" coords="5,109,245,165"/>
-<area shape="rect" id="node3" href="$goto__instrument__parse__options_8h.html" title="Command Line Parsing." alt="" coords="269,109,512,165"/>
-<area shape="rect" id="node4" href="$goto__instrument__languages_8cpp.html" title="Language Registration." alt="" coords="32,213,267,269"/>
-<area shape="rect" id="node5" href="$goto__instrument__main_8cpp.html" title="Main Module." alt="" coords="291,213,491,269"/>
-<area shape="rect" id="node6" href="$goto__instrument__parse__options_8cpp.html" title="Main Module." alt="" coords="515,213,773,269"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/contracts/contracts_wrangler.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;instrument/contracts/contracts_wrangler.h">
+<area shape="rect" id="node1" title="Parse and annotate contracts." alt="" coords="171,5,370,76"/>
+<area shape="rect" id="node2" href="$contracts__wrangler_8cpp.html" title="Parse and annotate contracts." alt="" coords="49,124,247,195"/>
+<area shape="rect" id="node3" href="$goto__instrument__parse__options_8h.html" title="Command Line Parsing." alt="" coords="272,124,515,195"/>
+<area shape="rect" id="node4" href="$goto__instrument__languages_8cpp.html" title="Language Registration." alt="" coords="5,243,248,313"/>
+<area shape="rect" id="node5" href="$goto__instrument__main_8cpp.html" title="Main Module." alt="" coords="272,243,515,313"/>
+<area shape="rect" id="node6" href="$goto__instrument__parse__options_8cpp.html" title="Main Module." alt="" coords="539,243,781,313"/>
 </map>

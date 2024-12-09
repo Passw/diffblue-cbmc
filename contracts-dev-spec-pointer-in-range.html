@@ -92,7 +92,7 @@ $(document).ready(function(){initNavTree('contracts-dev-spec-pointer-in-range.ht
 <div class="title">Rewriting Calls to the __CPROVER_pointer_in_range_dfcc Predicate </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="md__home_runner_work_cbmc_cbmc_src_goto_instrument_contracts_doc_developer_contracts_dev_spec_pointer_in_range"></a> Back to top <a class="el" href="contracts-dev-spec.html">Code Contracts Transformation Specification</a></p>
+<div class="textblock"><p><a class="anchor" id="md__home_runner_work_diffblue_cbmc_diffblue_cbmc_src_goto_instrument_contracts_doc_developer_contracts_dev_spec_pointer_in_range"></a> Back to top <a class="el" href="contracts-dev-spec.html">Code Contracts Transformation Specification</a></p>
 <p>In goto programs encoding pre or post conditions (generated from the contract clauses) and in all user-defined functions, we simply replace calls to <code>__CPROVER_pointer_in_range_dfcc</code> with calls to the library implementation.</p>
 <div class="fragment"><div class="line"><a class="code" href="cprover__builtin__headers_8h.html#a33926c3f831d23353ac2baf02eeb063a">__CPROVER_pointer_in_range_dfcc</a>(</div>
 <div class="line">    <span class="keywordtype">void</span> *lb,</div>
@@ -100,7 +100,7 @@ $(document).ready(function(){initNavTree('contracts-dev-spec-pointer-in-range.ht
 <div class="line">    <span class="keywordtype">void</span> *ub,</div>
 <div class="line">    <a class="code" href="struct_____c_p_r_o_v_e_r__contracts__write__set__t.html">__CPROVER_contracts_write_set_ptr_t</a> write_set);</div>
 <div class="ttc" id="acprover__builtin__headers_8h_html_a33926c3f831d23353ac2baf02eeb063a"><div class="ttname"><a href="cprover__builtin__headers_8h.html#a33926c3f831d23353ac2baf02eeb063a">__CPROVER_pointer_in_range_dfcc</a></div><div class="ttdeci">__CPROVER_bool __CPROVER_pointer_in_range_dfcc(void *lb, void *ptr, void *ub)</div></div>
-<div class="ttc" id="astruct_____c_p_r_o_v_e_r__contracts__write__set__t_html"><div class="ttname"><a href="struct_____c_p_r_o_v_e_r__contracts__write__set__t.html">__CPROVER_contracts_write_set_t</a></div><div class="ttdoc">Runtime representation of a write set.</div><div class="ttdef"><b>Definition:</b> <a href="cprover__contracts_8c_source.html#l00072">cprover_contracts.c:73</a></div></div>
+<div class="ttc" id="astruct_____c_p_r_o_v_e_r__contracts__write__set__t_html"><div class="ttname"><a href="struct_____c_p_r_o_v_e_r__contracts__write__set__t.html">__CPROVER_contracts_write_set_t</a></div><div class="ttdoc">Runtime representation of a write set.</div><div class="ttdef"><b>Definition:</b> <a href="cprover__contracts_8c_source.html#l00071">cprover_contracts.c:72</a></div></div>
 </div><!-- fragment --><p>This function implements the <code>__CPROVER_pointer_in_range_dfcc</code> behaviour in all possible contexts (contract checking vs replacement, requires vs ensures clause context, as described by the flags carried by the write set parameter).</p>
 <hr  />
  <table class="markdownTable">

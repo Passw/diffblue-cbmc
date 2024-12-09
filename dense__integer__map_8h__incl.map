@@ -1,11 +1,12 @@
-<map id="/home/runner/work/cbmc/cbmc/src/util/dense_integer_map.h" name="/home/runner/work/cbmc/cbmc/src/util/dense_integer_map.h">
-<area shape="rect" id="node1" title="Dense integer map." alt="" coords="75,5,328,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,95,64,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="88,95,203,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="227,95,290,121"/>
-<area shape="rect" id="node5" href="$src_2util_2invariant_8h.html" title=" " alt="" coords="315,95,432,121"/>
-<area shape="rect" id="node6" title=" " alt="" coords="201,169,266,196"/>
-<area shape="rect" id="node7" title=" " alt="" coords="291,169,365,196"/>
-<area shape="rect" id="node8" title=" " alt="" coords="389,169,448,196"/>
-<area shape="rect" id="node9" title=" " alt="" coords="473,169,565,196"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/util/dense_integer_map.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/util/dense_integer_map.h">
+<area shape="rect" id="node1" title="Dense integer map." alt="" coords="281,5,480,61"/>
+<area shape="rect" id="node2" href="$src_2util_2invariant_8h.html" title=" " alt="" coords="119,109,237,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="261,109,327,136"/>
+<area shape="rect" id="node8" title=" " alt="" coords="351,109,410,136"/>
+<area shape="rect" id="node9" title=" " alt="" coords="434,109,549,136"/>
+<area shape="rect" id="node10" title=" " alt="" coords="573,109,636,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,184,71,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="95,184,170,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="194,184,253,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="277,184,369,211"/>
 </map>

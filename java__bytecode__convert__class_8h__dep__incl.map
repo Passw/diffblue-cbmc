@@ -1,10 +1,10 @@
-<map id="/home/runner/work/cbmc/cbmc/jbmc/src/java_bytecode/java_bytecode_convert_class.h" name="/home/runner/work/cbmc/cbmc/jbmc/src/java_bytecode/java_bytecode_convert_class.h">
-<area shape="rect" id="node1" title="JAVA Bytecode Language Conversion." alt="" coords="393,5,622,61"/>
-<area shape="rect" id="node2" href="$java__bytecode__convert__class_8cpp.html" title="JAVA Bytecode Language Conversion." alt="" coords="5,317,249,373"/>
-<area shape="rect" id="node3" href="$java__bytecode__convert__method__class_8h.html" title="JAVA Bytecode Language Conversion." alt="" coords="364,109,651,165"/>
-<area shape="rect" id="node6" href="$java__bytecode__language_8cpp.html" title=" " alt="" coords="802,317,1021,373"/>
-<area shape="rect" id="node4" href="$java__bytecode__convert__method_8cpp.html" title="JAVA Bytecode Language Conversion." alt="" coords="274,317,535,373"/>
-<area shape="rect" id="node5" href="$java__bytecode__convert__method_8h.html" title="JAVA Bytecode Language Conversion." alt="" coords="384,213,631,269"/>
-<area shape="rect" id="node8" href="$java__local__variable__table_8cpp.html" title="Java local variable table processing." alt="" coords="655,213,874,269"/>
-<area shape="rect" id="node7" href="$lambda__synthesis_8cpp.html" title="Java lambda code synthesis." alt="" coords="559,317,778,373"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/jbmc/src/java_bytecode/java_bytecode_convert_class.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/jbmc/src/java_bytecode/java_bytecode_convert_class.h">
+<area shape="rect" id="node1" title="JAVA Bytecode Language Conversion." alt="" coords="364,5,607,76"/>
+<area shape="rect" id="node2" href="$java__bytecode__convert__class_8cpp.html" title="JAVA Bytecode Language Conversion." alt="" coords="5,361,248,432"/>
+<area shape="rect" id="node3" href="$java__bytecode__convert__method__class_8h.html" title="JAVA Bytecode Language Conversion." alt="" coords="364,124,607,195"/>
+<area shape="rect" id="node6" href="$java__bytecode__language_8cpp.html" title=" " alt="" coords="763,361,1005,432"/>
+<area shape="rect" id="node4" href="$java__bytecode__convert__method_8cpp.html" title="JAVA Bytecode Language Conversion." alt="" coords="272,361,515,432"/>
+<area shape="rect" id="node5" href="$java__bytecode__convert__method_8h.html" title="JAVA Bytecode Language Conversion." alt="" coords="364,243,607,313"/>
+<area shape="rect" id="node8" href="$java__local__variable__table_8cpp.html" title="Java local variable table processing." alt="" coords="631,243,846,313"/>
+<area shape="rect" id="node7" href="$lambda__synthesis_8cpp.html" title="Java lambda code synthesis." alt="" coords="539,361,738,432"/>
 </map>

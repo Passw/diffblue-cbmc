@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/goto&#45;symex/memory_model_pso.h" name="/home/runner/work/cbmc/cbmc/src/goto&#45;symex/memory_model_pso.h">
-<area shape="rect" id="node1" title="Memory models for partial order concurrency." alt="" coords="330,5,555,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;symex/memory_model_pso.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/goto&#45;symex/memory_model_pso.h">
+<area shape="rect" id="node1" title="Memory models for partial order concurrency." alt="" coords="316,5,569,61"/>
 <area shape="rect" id="node2" href="$memory__model__tso_8h.html" title="Memory models for partial order concurrency." alt="" coords="361,109,525,136"/>
 <area shape="rect" id="node3" href="$memory__model__sc_8h.html" title="Memory models for partial order concurrency." alt="" coords="363,184,522,211"/>
 <area shape="rect" id="node4" href="$memory__model_8h.html" title="Memory models for partial order concurrency." alt="" coords="374,259,511,285"/>

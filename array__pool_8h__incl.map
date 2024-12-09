@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/solvers/strings/array_pool.h" name="/home/runner/work/cbmc/cbmc/src/solvers/strings/array_pool.h">
-<area shape="rect" id="node1" title="Associates arrays and length to pointers, so that the string refinement can transform builtin functio..." alt="" coords="369,5,553,61"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/solvers/strings/array_pool.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/solvers/strings/array_pool.h">
+<area shape="rect" id="node1" title="Associates arrays and length to pointers, so that the string refinement can transform builtin functio..." alt="" coords="358,5,565,61"/>
 <area shape="rect" id="node2" href="$std__expr_8h.html" title="API to expression classes." alt="" coords="389,259,504,285"/>
 <area shape="rect" id="node28" href="$string__expr_8h.html" title="String expressions for the string solver." alt="" coords="448,109,579,136"/>
 <area shape="rect" id="node3" href="$expr__cast_8h.html" title="Templated functions to cast to specific exprt&#45;derived classes." alt="" coords="542,408,639,435"/>

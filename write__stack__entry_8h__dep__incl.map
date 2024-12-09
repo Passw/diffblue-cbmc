@@ -1,5 +1,5 @@
-<map id="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/write_stack_entry.h" name="/home/runner/work/cbmc/cbmc/src/analyses/variable&#45;sensitivity/write_stack_entry.h">
-<area shape="rect" id="node1" title="Represents an entry in the write_stackt." alt="" coords="117,5,342,61"/>
-<area shape="rect" id="node2" href="$write__stack_8cpp.html" title="Represents a stack of write operations to an addressable memory location." alt="" coords="5,109,208,165"/>
-<area shape="rect" id="node3" href="$write__stack__entry_8cpp.html" title="Represents an entry in the write_stackt." alt="" coords="232,109,472,165"/>
+<map id="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/write_stack_entry.h" name="/home/runner/work/diffblue&#45;cbmc/diffblue&#45;cbmc/src/analyses/variable&#45;sensitivity/write_stack_entry.h">
+<area shape="rect" id="node1" title="Represents an entry in the write_stackt." alt="" coords="124,5,339,76"/>
+<area shape="rect" id="node2" href="$write__stack_8cpp.html" title="Represents a stack of write operations to an addressable memory location." alt="" coords="5,124,220,195"/>
+<area shape="rect" id="node3" href="$write__stack__entry_8cpp.html" title="Represents an entry in the write_stackt." alt="" coords="244,124,459,195"/>
 </map>
